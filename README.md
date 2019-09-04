@@ -1,1 +1,3 @@
-# Technical-support_wushu
+精武武术技术支持
+
+本应用有任何问题请联系我们，邮箱：williewc22796@gmail.com
